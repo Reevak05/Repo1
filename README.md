@@ -15,6 +15,12 @@ _**~~MAXIMUM EMPHASIS~~**_
 - [ ] unchecked box
 - [x] #### checked box
 
+
+<details><summary>look at my thing inside this</summary>
+  
+hello
+</details>
+  
 |     |Apple|Google|Microsoft|
 |:--|:--|:--|:--|
 |Name|iWork|G Suite|Office|
@@ -23,6 +29,7 @@ _**~~MAXIMUM EMPHASIS~~**_
 |Number Processor|Numbers|Sheets|Excel|
 |Presentation Software|Keynote|Slides|PowerPoint|
 
+
 ![Shmirganfloib](https://planetary.s3.amazonaws.com/assets/images/3-earth/20140801_PIA00452.jpg "A Pale Blue Dot")
 
 `check out my cool font`
@@ -30,3 +37,5 @@ _**~~MAXIMUM EMPHASIS~~**_
 > quote
 
 > QUOTE YAY QUOTE YAY OH MY GOSH I LOVE QUOTES QUOTES QUOTES QUOTES AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+
