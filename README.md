@@ -10,7 +10,19 @@ __Bold__
 
 _ItAlIcS_
 
-_**~~HELLO~~**_
+_**~~MAXIMUM EMPHASIS~~**_
 
 - [ ] unchecked box
 - [x] #### checked box
+
+|     |Apple|Google|Microsoft|
+|:--|:--|:--|:--|
+|Name|iWork|G Suite|Office|
+|File Storage|iCloud Drive|Google Drive|OneDrive|
+|Word Processor|Pages|Docs|Word|
+|Number Processor|Numbers|Sheets|Excel|
+|Presentation Software|Keynote|Slides|PowerPoint|
+
+![Shmirganfloib](https://planetary.s3.amazonaws.com/assets/images/3-earth/20140801_PIA00452.jpg "A Pale Blue Dot")
+
+`check out my cool font`
